@@ -12,7 +12,7 @@
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%238957E5.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-> **Итоговый аналитический отчёт:** [Открыть Panko_NV_Tax_Debt_Analysis_RF.html](./Panko_NV_Tax_Debt_Analysis_RF.html)  
+> **Итоговый аналитический отчёт:** [Открыть Panko_NV_Tax_Debt_Analysis_RF.html]()  
 > *(Для просмотра в браузере скачайте файл или откройте через GitHub Pages)*
 
 
