@@ -1,0 +1,23 @@
+# Секреты и переменные окружения
+.env
+.env.*
+
+# Виртуальные окружения Python
+venv/
+.venv/
+env/
+
+# Кэш Python и Jupyter Notebook
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Системные файлы и настройки редактора
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Черновые и нецелевые файлы проекта
+77 регион/
+Тестовое_задание.pdf
