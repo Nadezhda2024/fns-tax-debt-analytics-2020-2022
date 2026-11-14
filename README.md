@@ -1,6 +1,6 @@
 # Анализ налоговой задолженности в Российской Федерации (2020–2022 гг.)
 
-Аналитическое исследование динамики, структуры и качества взыскания налоговой задолженности в Российской Федерации на основе открытых государственных данных ФНС России и портала «Электронный бюджет». Итоговый отчёт собран в виде автономной интерактивной HTML-страницы без внешних зависимостей.
+Аналитическое исследование динамики, структуры и качества взыскания налоговой задолженности в Российской Федерации на основе открытых государственных данных ФНС России и портала «Электронный бюджет». Итоговый отчет собран в виде автономной интерактивной HTML-страницы без внешних зависимостей.
 
 ### 🛠️ Языки и инструменты:
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -12,7 +12,7 @@
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%238957E5.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-> **Итоговый аналитический отчёт:** [Открыть Panko_NV_Tax_Debt_Analysis_RF.html](https://nadezhda2024.github.io/fns-tax-debt-analytics-2020-2022/./Panko_NV_Tax_Debt_Analysis_RF.html)  
+> **Итоговый аналитический отчет:** [Открыть Panko_NV_Tax_Debt_Analysis_RF.html](https://nadezhda2024.github.io/fns-tax-debt-analytics-2020-2022/./Panko_NV_Tax_Debt_Analysis_RF.html)  
 > *(Для просмотра в браузере скачайте файл или откройте через GitHub Pages)*\
 > [Исходный HTML-файл в репозитории](./Panko_NV_Tax_Debt_Analysis_RF.html)
 
